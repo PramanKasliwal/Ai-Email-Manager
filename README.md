@@ -1,4 +1,4 @@
-# Ai-Email-Manager
+# AI-Email Manager
 🤖 Smart email manager with AI classification, auto-labeling & priority alerts. Uses transformers + Gmail API to categorize emails, flag important messages & notify about sales leads. Boost productivity with intelligent email automation!
 ---
 ## Prerequisites
