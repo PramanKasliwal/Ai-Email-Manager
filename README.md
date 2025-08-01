@@ -82,7 +82,7 @@ python email_ai_manager.py --continuous 10
 - **Junk**: Spam and low-priority emails
 
 ### 🏷️ Auto-Labeling
-- Creates Gmail labels: `AI/Sales`, `AI/Support`, `AI/Finance`, `AI/Junk`
+- Creates Gmail labels: `AI/Job_opportunities`,`AI/Sales`, `AI/Support`, `AI/Finance`, `AI/Junk`
 - Automatically applies appropriate labels to classified emails
 
 ### ⚡ Priority Detection
