@@ -1,7 +1,5 @@
 # Ai-Email-Manager
-🤖 AI-powered email automation tool using transformers &amp; Gmail API.<br/>
-Automatically classifies emails (job_opportunities/sales/support/finance/junk), applies smart labels, flags priorities &amp; sends instant alerts for leads. Features zero-shot classification, continuous monitoring &amp; customizable rules.<br/>
-Perfect for productivity!
+🤖 Smart email manager with AI classification, auto-labeling & priority alerts. Uses transformers + Gmail API to categorize emails, flag important messages & notify about sales leads. Boost productivity with intelligent email automation!
 ---
 ## Prerequisites
 
